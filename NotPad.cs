@@ -25,7 +25,7 @@ namespace NotPad
             {
                 name = saveFileDialog1.FileName;  
 
-                richTextBox1.SaveFile(name, RichTextBoxStreamType.RichText);
+                richTextBox1.SaveFile(name, RichTextBoxStreamType.RichText); //saves file
             }
         }
 
