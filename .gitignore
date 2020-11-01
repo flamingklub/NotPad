@@ -1,5 +1,12 @@
 
+<<<<<<< HEAD
+.vs/NotPad/v16/Server/sqlite3/db.lock
+=======
 *.lock
 *.ide
 *.ide-shm
 *.ide-wal
+<<<<<<< HEAD
+=======
+>>>>>>> main
+>>>>>>> 432235414cf4a6239f173139b4d8b257bae6f6d9

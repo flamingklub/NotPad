@@ -1,0 +1,10 @@
+C:\Users\gamerguy\source\repos\NotPad\bin\Debug\NotPad.exe.config
+C:\Users\gamerguy\source\repos\NotPad\bin\Debug\NotPad.exe
+C:\Users\gamerguy\source\repos\NotPad\bin\Debug\NotPad.pdb
+C:\Users\gamerguy\source\repos\NotPad\obj\Debug\NotPad.csprojAssemblyReference.cache
+C:\Users\gamerguy\source\repos\NotPad\obj\Debug\NotPad.Properties.Resources.resources
+C:\Users\gamerguy\source\repos\NotPad\obj\Debug\NotPad.csproj.GenerateResource.cache
+C:\Users\gamerguy\source\repos\NotPad\obj\Debug\NotPad.csproj.CoreCompileInputs.cache
+C:\Users\gamerguy\source\repos\NotPad\obj\Debug\NotPad.exe
+C:\Users\gamerguy\source\repos\NotPad\obj\Debug\NotPad.pdb
+C:\Users\gamerguy\source\repos\NotPad\obj\Debug\NotPad.NotPad.resources
