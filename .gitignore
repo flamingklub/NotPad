@@ -4,3 +4,6 @@
 =======
 *.lock
 >>>>>>> main
+.vs/NotPad/v16/.suo
+.vs/NotPad/v16/Server/sqlite3/storage.ide-shm
+.vs/NotPad/v16/Server/sqlite3/storage.ide-wal
