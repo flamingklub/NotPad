@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Security.Cryptography;
+using System.Threading;
 
 namespace NotPad
 {
@@ -151,6 +152,31 @@ namespace NotPad
                     }
                 }
             }
+        }
+
+        private void SignInToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //this.Hide();
+            Thread thread = new Thread(NewFormLogin);
+            thread.Start();
+        }
+
+        public void NewFormLogin()
+        {
+            Login login = new Login();
+            login.ShowDialog();
+        }
+
+        private void SignUpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Thread thread = new Thread(NewFormSignUp);
+            thread.Start();
+        }
+
+        public void NewFormSignUp()
+        {
+            SignUp signUp = new SignUp();
+            signUp.ShowDialog();
         }
     }
 }
